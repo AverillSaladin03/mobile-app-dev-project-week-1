@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Universitas Ciputra (Kuliah)/Semester 3/Mobile App Dev/W1/Android Studio/mobile-app-dev-project-week-1/MobileAppDevWeek1/app/src/main/res/drawable-anydpi/ic_action_arrowBack_dark.xml" value="0.2" />
+        <entry key="..\:/Universitas Ciputra (Kuliah)/Semester 3/Mobile App Dev/W1/Android Studio/mobile-app-dev-project-week-1/MobileAppDevWeek1/app/src/main/res/drawable-anydpi/ic_action_deleteIcon_red.xml" value="0.20833333333333334" />
+        <entry key="..\:/Universitas Ciputra (Kuliah)/Semester 3/Mobile App Dev/W1/Android Studio/mobile-app-dev-project-week-1/MobileAppDevWeek1/app/src/main/res/layout/activity_add_user.xml" value="0.22" />
+        <entry key="..\:/Universitas Ciputra (Kuliah)/Semester 3/Mobile App Dev/W1/Android Studio/mobile-app-dev-project-week-1/MobileAppDevWeek1/app/src/main/res/layout/activity_loading.xml" value="0.33" />
+        <entry key="..\:/Universitas Ciputra (Kuliah)/Semester 3/Mobile App Dev/W1/Android Studio/mobile-app-dev-project-week-1/MobileAppDevWeek1/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Universitas Ciputra (Kuliah)/Semester 3/Mobile App Dev/W1/Android Studio/mobile-app-dev-project-week-1/MobileAppDevWeek1/app/src/main/res/layout/activity_profile.xml" value="0.1921875" />
+        <entry key="..\:/Universitas Ciputra (Kuliah)/Semester 3/Mobile App Dev/W1/Android Studio/mobile-app-dev-project-week-1/MobileAppDevWeek1/app/src/main/res/layout/cardview.xml" value="0.1921875" />
+        <entry key="..\:/Universitas Ciputra (Kuliah)/Semester 3/Mobile App Dev/W1/Android Studio/mobile-app-dev-project-week-1/MobileAppDevWeek1/app/src/main/res/layout/cardview_userInfo.xml" value="0.33" />
+        <entry key="..\:/Universitas Ciputra (Kuliah)/Semester 3/Mobile App Dev/W1/Android Studio/mobile-app-dev-project-week-1/MobileAppDevWeek1/app/src/main/res/layout/cardview_userinfo.xml" value="0.5" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
