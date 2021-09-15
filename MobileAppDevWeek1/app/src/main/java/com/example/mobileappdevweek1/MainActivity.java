@@ -24,7 +24,6 @@ public class MainActivity extends AppCompatActivity {
     TextView main_text_noData;
 
     ArrayList<Mahasiswa> listMahasiswa;
-    Mahasiswa varMahasiswa;
     RVAdapter rvAdapter;
     Intent intent;
 
@@ -44,7 +43,6 @@ public class MainActivity extends AppCompatActivity {
         main_recyclerView_listUser = findViewById(R.id.main_recyclerView_listUser);
         main_text_noData = findViewById(R.id.main_text_noData);
         intent = getIntent();
-        varMahasiswa = new Mahasiswa();
         getNewUserData();
         rvAdapter = new RVAdapter(listMahasiswa);
     }
